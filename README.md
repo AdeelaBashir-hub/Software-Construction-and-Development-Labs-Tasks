@@ -1,2 +1,2 @@
-# Software-Construction-and-Development-Labs-Tasks
+# Software Construction and Development Labs Tasks
 This Repository contains all my lab tasks for this course.
